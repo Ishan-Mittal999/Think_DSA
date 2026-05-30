@@ -1,5 +1,23 @@
 # 🧠 ThinkDSA — Learn DSA the Right Way
 
+<div align="center">
+
+![ThinkDSA Banner](https://img.shields.io/badge/ThinkDSA-AI%20Powered%20Learning-6366f1?style=for-the-badge&logo=react&logoColor=white)
+
+**An intelligent DSA learning assistant that builds your thinking skills — not your copy-paste habit.**
+
+[![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-6.2-646cff?style=flat-square&logo=vite)](https://vitejs.dev/)
+[![Gemini AI](https://img.shields.io/badge/Gemini-2.5%20Flash-4285F4?style=flat-square&logo=google)](https://ai.google.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
+
+> 🎓 *3rd Semester Mini Project | BCS554 | ABES Engineering College*
+
+</div>
+
+---
+
 ## 📌 Table of Contents
 
 - [About the Project](#-about-the-project)
@@ -222,3 +240,11 @@ Repeat until the user has truly understood the solution
 This project is private and created for academic purposes as part of the BCS554 Mini Project coursework.
 
 ---
+
+<div align="center">
+
+Built with ❤️ using **React**, **Tailwind CSS**, and **Google Gemini AI**
+
+*"Don't just solve problems. Understand them."*
+
+</div>
