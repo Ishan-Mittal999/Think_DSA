@@ -54,4 +54,4 @@ const Header: React.FC<HeaderProps> = ({ currentView, setView }) => {
   );
 };
 
-export default Header
+export default Header;
